@@ -1,5 +1,5 @@
 
-# HALLO 👋
+# HELLO 👋
 
 I am Galih Trisna with NIM 2311102050
 
